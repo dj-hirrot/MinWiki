@@ -12,7 +12,7 @@ dj-hirrot
 4月中 (Unti corona virus!)
 
 # Where
-Work From Home :thumb:
+Work From Home :thumbsup:
 
 # How
 ## Technologies
